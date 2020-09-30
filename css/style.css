@@ -1,6 +1,7 @@
 body {
     background: rgb(44, 44, 44);
     animation: transition ease 10s infinite;
+    box-sizing: border-box;
 }
 
 .main {
